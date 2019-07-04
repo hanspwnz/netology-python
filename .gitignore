@@ -1,0 +1,5 @@
+# track these files, if they exist
+!.gitignore
+
+# Don't upload the HR csv file
+HR.csv
